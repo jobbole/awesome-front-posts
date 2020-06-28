@@ -9,7 +9,7 @@
 
 > **Github**：github.com/jobbole/awesome-front-posts
 
-> **知乎专栏**： 知乎关注 前端大全 ，能看到专栏更新
+> **知乎专栏**：https://www.zhihu.com/people/frontdev
 
 > **主页君个人微信**：frontguru
 
@@ -17,8 +17,11 @@
 
 -----
 其他 Awesome 前端资源系列：
+
 《如果有人让你推荐前端技术书，请让他看这个列表》：https://github.com/jobbole/awesome-web-dev-books
+
 《JavaScript 资源大全中文版》：https://github.com/jobbole/awesome-javascript-cn
+
 《CSS 资源大全中文版》：https://github.com/jobbole/awesome-css-cn
 
 -----
