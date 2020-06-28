@@ -15,6 +15,14 @@
 
 // 最新更新时间 2020/6/28
 
+-----
+其他 Awesome 前端资源系列：
+《如果有人让你推荐前端技术书，请让他看这个列表》：https://github.com/jobbole/awesome-web-dev-books
+《JavaScript 资源大全中文版》：https://github.com/jobbole/awesome-javascript-cn
+《CSS 资源大全中文版》：https://github.com/jobbole/awesome-css-cn
+
+-----
+
 ## 一）前端基本功
 
 
