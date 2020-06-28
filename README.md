@@ -1,5 +1,5 @@
 # awesome-front-posts
-让你受益匪浅的前端技术干货系列
+# 让你受益匪浅的前端技术干货系列
 
 这是一个凝聚了很多优秀前端开发者心血的精选技术干货列表，希望你能从中学习提升前端开发技术。如果觉得这个系列有收获，欢迎推荐给朋友。
 
@@ -12,9 +12,10 @@
 
 // 最新更新时间 2020/6/28
 
-**一）前端基本功**
+## 一）前端基本功
 
-**前端相关的基础知识**  
+
+### 前端相关的基础知识
 
 《[HTTP/3 来了 ！未来可期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558962&idx=1&sn=f2f6e24819bef7e951341a413e3d4892&chksm=802543f3b752cae5f5dc52122c0f978c5546bb9334030e6635573ebf2f1bf84eac91bdd733b8&scene=21#wechat_redirect)》
 
@@ -47,7 +48,7 @@
 《[解读HTTP/2与HTTP/3 的新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=1&sn=dddebeb50ae71dcf1557ee52376e9fd9&chksm=80255abcb752d3aadc09ff2546a40400f811ff4b11810b9b73a427f6cfcb815ff16fbc60f2aa&scene=21#wechat_redirect)》
 
   
-**CSS**
+### CSS
 
 《[那些不常见，但却非常实用的 CSS 属性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559733&idx=1&sn=c3119f9ec0bb024a609a41d577c01518&chksm=802540f4b752c9e20826b10d50b3f8eaf21509f52bf725650cf4a883278f85587c3a4cc38607&scene=21#wechat_redirect)》
 
@@ -64,7 +65,7 @@
 《[你还不会 CSS 动画？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557269&idx=1&sn=5980e0d50be6edf5fb4224094246fdda&chksm=80255a54b752d34265a8d60f98330c49af72f5a6340aeebd4bf267a3adb21714ecc985fcfa01&scene=21#wechat_redirect)》
 
   
-**JavaScript**
+### JavaScript
 
 《[谁说前端不需要懂二进制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559294&idx=1&sn=c4e7e29922fdd39d8780b0df18d94393&chksm=802542bfb752cba98e355c7f0d3fc40de64d72d2b9a781eef478e37437ddc5e67d77263a9d3b&scene=21#wechat_redirect)》  
 
@@ -85,7 +86,7 @@
 《[JavaScript 手写代码无敌秘籍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557293&idx=1&sn=b1d52d16ba275f7a4df9b95c8effe1ed&chksm=80255a6cb752d37ae4a2fb34417e6140c87b4fba7bcd73df9bebf650a280904c071d6e8482d4&scene=21#wechat_redirect)》
 
 
-**TypeScript**
+### TypeScript
 
 《[通俗易懂的 TypeScript 入门教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559174&idx=1&sn=14423a26e283247fd677f85e05f54c51&chksm=802542c7b752cbd14445a3cd154bba10df51bdc97eae9be4479a4694911d4bc63f7292d12109&scene=21#wechat_redirect)》  
 
@@ -101,9 +102,9 @@
 
   
 
-**二）前端框架、工具、库**
+## 二）前端框架、工具、库
 
-**React**  
+### React
 
 《[用 TypeScript 编写 React 的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559071&idx=2&sn=4ce5feb4853e00be7b388dce6545717a&chksm=8025435eb752ca489bbf5cb790859ecab3c8901b080ab809a1716e4587cc31ab1400f6bc702a&scene=21#wechat_redirect)》  
 
@@ -116,21 +117,21 @@
 《[组件演进史：从Mixin到HOC，再到Hook](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558113&idx=1&sn=df2defa60c991449f49d9d46ccbc4b35&chksm=80254720b752ce36b972cb88384aa66cc2422fae7039dd0f308072763ca973fe8cc5c0f0e02a&scene=21#wechat_redirect)》  
 
 
-**Vue**
+### Vue
 
 《[1.1万字从零解读Vue3.0源码响应式系统](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559411&idx=1&sn=2339ddaa90704dbf885e4e7c629dc4a6&chksm=80254232b752cb24a7ef10024de112d850236b90723c9764eda0a5a9df85777675e2bd28fc1f&scene=21#wechat_redirect)》  
 
 《[重头来过的 Vue 3 带来了什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559087&idx=1&sn=e4849cdfb450bdc76e9e3abc09b30c06&chksm=8025436eb752ca78a03d9a3c32ae7999afda7738d1cbe4b74a1851d74f1bc67a72902d141e10&scene=21#wechat_redirect)》
 
 
-**Nodejs**  
+### Nodejs
 
 《[一杯茶的时间，上手 Node.js](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558099&idx=1&sn=82eb21429ebb8fd87e837bfbc9e68711&chksm=80254712b752ce04fd44d9a1fc6a46eef2894da25c7d871a607605243d6dcbd7db4f259e9271&scene=21#wechat_redirect)》
 
 《[深入理解 Node.js 进程与线程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557398&idx=1&sn=1fb991da8667f620073bf59701e18697&chksm=802559d7b752d0c1aa5315c33da6d8a2499fadc3428b524a35cba35a597d89676a43c84e9a81&scene=21#wechat_redirect)》
 
 
-**Deno**
+### Deno
 
 《[Deno 会取代 Node.js 吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558779&idx=2&sn=86173f3e6ee3c869dfe8986c06068050&chksm=802544bab752cdac45de71f27ef870b35ceb03dd156551c9d027a1a2801992c602c499d11cf2&scene=21#wechat_redirect)》  
 
@@ -139,12 +140,12 @@
 《[推倒 Node 重做，Deno 1.0 来了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558630&idx=1&sn=e2665887eff08e79696c5f0812cd1e30&chksm=80254527b752cc31282ac3789a09bbd5b20d00dd17ddae45435111ab53809fa29087b9f4aa4c&scene=21#wechat_redirect)》
 
 
-**Webpack**  
+### Webpack  
 
 《[一文搞懂 Webpack 多入口配置](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557068&idx=1&sn=570f0ab7f1cf096f22d4446058f86279&chksm=80255b0db752d21bfbf5930e997341da18c3c36c6387711806b4d0404b54ecfcfccade114bc3&scene=21#wechat_redirect)》  
 
 
-**GraphQL**
+#### GraphQL
 
 《[GraphQL-前端开发的利剑与桥梁](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555621&idx=1&sn=961a4d8c643c486f1e457f2a6d58da65&chksm=802550e4b752d9f2a708095086e633ef7bb68cbce4e2fab9168324f09e37c8e6221b7078c5ef&scene=21#wechat_redirect)》  
 
@@ -153,13 +154,13 @@
 《[前端工程师应该了解的 GraphQL](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559497&idx=1&sn=c51e74783cd22cf2d5aeaedd733ce3ba&chksm=80254188b752c89ecb6d2baf683cd7d66599b00618c84e7dce69af0860184b3a8b2a668aaf08&scene=21#wechat_redirect)》
 
 
-**VS Code**  
+### VS Code
 
 《[动图演示11个必备 VS Code 插件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557902&idx=2&sn=89a15b5976f09a1868e81c785a567718&chksm=802547cfb752ced9a53f1d476f8de8baa4a31f665c6566a3e38a7a5f575db7d6897cd4ea01fb&scene=21#wechat_redirect)》
 
 
 
-**三）面试题精选**
+## 三）面试题精选
 
 《[高频前端面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558273&idx=1&sn=0ad197e3c89520ecc635c2d3f1d21360&chksm=80254640b752cf56105618b585e95364690b639b6d64a9c168bae705b2fab03abf1de4570294&scene=21#wechat_redirect)》
 
@@ -186,7 +187,7 @@
 《[2018 大厂高级前端面试题汇总](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43&chksm=80255200b752db160ff8569d0795b8eaac096b8c62b30b3cf0ff93340c6f6a0b3b172ec308aa&scene=21#wechat_redirect)》
 
 
-**四）前端开发的职业修炼**
+## 四）前端开发的职业修炼
 
 《[前端如何在项目中做出亮点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559253&idx=2&sn=9d1eacaa4beb8b9df8c3efa9fbfb9cd3&chksm=80254294b752cb8255c0324960835015d0cb3080204654ae928cd6b9a04dc897da49bf79c438&scene=21#wechat_redirect)》  
 
