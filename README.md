@@ -5,13 +5,13 @@
 
 有新内容加入后，这个列表每月将更新一次，除在公号推送外，还将在 Github 、知乎专栏 和 前端大全主页君的个人微信同步更新。
 
-> **微信公号**：前端大全  ( ID:  frontdev )
+**微信公号**：前端大全  ( ID:  frontdev )
 
-> **Github**：github.com/jobbole/awesome-front-posts
+**Github**：https://github.com/jobbole/awesome-front-posts
 
-> **知乎专栏**：https://www.zhihu.com/people/frontdev
+**知乎专栏**：https://www.zhihu.com/people/frontdev
 
-> **主页君个人微信**：frontguru
+**主页君个人微信**：frontguru
 
 // 最新更新时间 2020/6/28
 
